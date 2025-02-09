@@ -1,0 +1,1 @@
+export const ProductsSearchAbleFields = ["productName", "description", "price", "stockQuantity"];
